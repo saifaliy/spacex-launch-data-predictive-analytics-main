@@ -161,9 +161,9 @@ Then visit: [http://127.0.0.1:8050](http://127.0.0.1:8050)
 
 ### Author
 
-**Zubin Mehta**
+**Saif Ali**
 Data Scientist
-[LinkedIn](https://www.linkedin.com/in/iamzubinmehta) · [GitHub](https://github.com/ZubinMehta27)
+[LinkedIn](https://www.linkedin.com/in/saifaliy/) · [GitHub](https://github.com/saifaliy)
 
 ---
 
@@ -199,7 +199,7 @@ This project is licensed under the **MIT License** — feel free to use, modify,
 
 ```bash
 # Clone this repo
-git clone https://github.com/<your-username>/spacex-launch-analysis.git
+
 
 # Navigate to project folder
 cd spacex-launch-analysis
